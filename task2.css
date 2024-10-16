@@ -1,0 +1,21 @@
+#P1{
+    background-color: rgb(104, 103, 103);
+    color: white;
+    border: 3px solid blue;
+    text-indent: 50px;
+}
+a{
+    text-decoration: none;
+}
+a:link{
+    color: yellow;
+}
+a:visited{
+    color: red;
+}
+a:hover{
+    color: black;
+}
+a:active{
+    color:blue;
+}
